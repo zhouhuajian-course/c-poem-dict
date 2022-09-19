@@ -2,7 +2,7 @@
 
 ## 实现方式
 
-hash table
+hash table + repl (read eval print loop)
 
 ## 编译命令
 
